@@ -12,7 +12,7 @@
 export TG=${TG:-'644320820 7935239797:AAHuQ9jZt-cNjcgjqQ9HH0JzkSWlD53EttM'}  #配置后节点自动上传TG
 
 # 节点上传订阅服务器，服务器搭建https://github.com/dsadsadsss/workers-sub-for-wanju.git
-export SUB_URL=${SUB_URL:-'https://node.btpp4.netlib.re/token=123456nb?cf_ip=ip.sb&cf_port=443'} 
+export SUB_URL=${SUB_URL:-'https://node.btpp.hidns.co/token=123456nb?cf_ip=ip.sb&cf_port=443'} 
 
 # 哪吒相关设置，支持V0和V1，v1面板搭建教程:https://github.com/dsadsadsss/Docker-for-Nezha-Argo-server-v1.x.git
 export NEZHA_SERVER=${NEZHA_SERVER:-'nezhak2.btpp.ggff.net'}  # v0设置域名即可，v1设置域名:端口
