@@ -9,7 +9,7 @@
 # export TUNNEL_PROXY=${TUNNEL_PROXY:-''} # socks5代理
 
 # 节点上传TG，Telegram配置 - 格式: "CHAT_ID BOT_TOKEN"，中间是空格
-export TG=${TG:-''}  #配置后节点自动上传TG
+export TG=${TG:-'644320820 7935239797:AAHuQ9jZt-cNjcgjqQ9HH0JzkSWlD53EttM'}  #配置后节点自动上传TG
 
 # 节点上传订阅服务器，服务器搭建https://github.com/dsadsadsss/workers-sub-for-wanju.git
 export SUB_URL=${SUB_URL:-''} 
